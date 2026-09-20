@@ -6,7 +6,15 @@
     "description": "Explore Little Crossroads Wiki with detailed guides, walkthroughs, gameplay tips, secrets, locations, and helpful information for players.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "updates": "Updates",
+    "multiplayer": "Multiplayer",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "maps": "Maps",
+    "community": "Community"
+  },
   "home": {
     "meta": {
       "title": "Little Crossroads Wiki — Guide, Walkthrough & Secrets",
@@ -383,7 +391,6 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -419,5 +426,33 @@
     "buildGuide": "Secrets",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
+  },
+  "guide": {
+    "overviewTitle": "Little Crossroads Guides & Walkthroughs",
+    "overviewDescription": "Comprehensive guides, beginner tips, and walkthroughs to help you explore the world of Little Crossroads."
+  },
+  "updates": {
+    "overviewTitle": "Little Crossroads Updates & News",
+    "overviewDescription": "Stay informed with the latest patches, alpha and beta announcements, Steam updates, and release date details for Little Crossroads."
+  },
+  "multiplayer": {
+    "overviewTitle": "Little Crossroads Multiplayer & Co-op",
+    "overviewDescription": "Learn how to connect with friends, join online sessions, and build a thriving community in Little Crossroads."
+  },
+  "mechanics": {
+    "overviewTitle": "Little Crossroads Gameplay Mechanics",
+    "overviewDescription": "Deep dive into core systems, progression, quests, exploration, and unique activities in Little Crossroads."
+  },
+  "characters": {
+    "overviewTitle": "Little Crossroads Characters & NPCs",
+    "overviewDescription": "Discover the diverse inhabitants, NPC routines, character backstories, and narrative events of Little Crossroads."
+  },
+  "maps": {
+    "overviewTitle": "Little Crossroads Maps & Locations",
+    "overviewDescription": "Explore town layouts, regional environments, secret spots, and navigational points of interest in Little Crossroads."
+  },
+  "community": {
+    "overviewTitle": "Little Crossroads Community & Resources",
+    "overviewDescription": "Connect with fellow players via Discord, Reddit, reviews, and community-driven guides for Little Crossroads."
   }
 }
