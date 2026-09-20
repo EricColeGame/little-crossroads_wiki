@@ -9,8 +9,8 @@
   "nav": {},
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "Little Crossroads Wiki — Guide, Walkthrough & Secrets",
+      "description": "Explore Little Crossroads Wiki with detailed guides, walkthroughs, gameplay tips, secrets, locations, and helpful information for players."
     },
     "hero": {
       "eyebrow": "Cozy Adventure Game",
@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your Little Crossroads Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Master your first hours in The Crossroads with essential tips on navigation, starter tools, and clearing your sanctuary."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Skills Progression",
+          "description": "Level up Fishing, Mining, Bug Catching, Woodcutting, and Foraging to unlock advanced tools and crafting recipes."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Grolem & Pets",
+          "description": "Befriend the adorable Grolem dirt golem to grow crops on the move and unlock helpful mobility companions."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Multiplayer Co-Op",
+          "description": "Learn how to activate magical signposts to link realms, invite friends, and explore community worlds together."
         }
       ]
     },
@@ -62,237 +62,289 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Skills Progression",
+        "Multiplayer Co-Op",
+        "Grolem Companion"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first login to mastering the basics of navigation and progression.",
+          "href": "/guide/little-crossroads-beginner-guide"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Skills Guide",
+          "description": "Comprehensive guide covering fishing, mining, bug catching, woodcutting, and foraging.",
+          "href": "/mechanics/little-crossroads-activities"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Co-Op",
+          "title": "Multiplayer Guide",
+          "description": "Connect with friends through realm signposts and explore sanctuaries together.",
+          "href": "/multiplayer/little-crossroads-multiplayer"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
-        },
-        {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Features",
+          "title": "Progression & Pets",
+          "description": "Unlock mobility gear, glider wings, and mobile farming companions.",
+          "href": "/mechanics/little-crossroads-progression"
         }
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is Little Crossroads?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Little Crossroads is a cozy multiplayer sandbox RPG developed by Red Merle Games. Set in a tranquil, interconnected realm, players awaken at their own signpost sanctuary to build a personal home, master peaceful gathering skills, and explore diverse biomes at their own relaxed pace.",
+        "Cultivate crops on the go with helpful companions like the Grolem dirt golem, link worlds with friends through magical signposts, and customize your character with countless cozy outfits. Our wiki provides complete guides, item catalogs, and progression tips for your adventure."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Red Merle Games"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "PC (Steam)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Cozy Sandbox RPG"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Release Window",
+          "value": "2027"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Core Skills",
+          "value": "5 Disciplines"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Storage",
+          "value": "2 GB SSD"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Multiplayer",
+          "value": "Online Co-Op"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
-      "title": "Explore My Seafood Stand Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "title": "Explore Little Crossroads Wiki",
+      "description": "Discover comprehensive guides, skill breakdowns, multiplayer tips, and progression roadmaps for Little Crossroads.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "Little Crossroads Beginner Guide",
+          "description": "A beginner-friendly guide covering the first steps in Little Crossroads, including creating your home, exploring the world, choosing activities, and understanding the main progression loop. This module targets new players searching for how to start and what to do first.",
+          "href": "/guide/little-crossroads-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Awaken in The Crossroads and locate your central signpost sanctuary"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Clear debris and harvest initial wood and stone with starter tools"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Meet the friendly Grolem companion to begin mobile crop cultivation"
+            },
+            {
+              "label": "4",
+              "detail": "Activate the realm signpost to connect with multiplayer world hubs"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Little Crossroads Skills Guide",
+          "description": "A detailed overview of the skill progression system, including Fishing, Mining, Bug Catching, Woodcutting, and Foraging. Players can learn how different activities contribute to character growth and rewards.",
+          "href": "/mechanics/little-crossroads-activities",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Fishing",
+              "detail": "Catch diverse fish species in rivers and ocean shores with rods"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Mining",
+              "detail": "Mine stone, iron ore, and rare gemstones inside cave biomes"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Bugs",
+              "detail": "Sweep nets across meadows to collect elusive insect species"
+            },
+            {
+              "label": "Woodcut",
+              "detail": "Fell timber for hardwood, softwood, and building lumber"
+            },
+            {
+              "label": "Foraging",
+              "detail": "Gather wild berries, healing herbs, and natural crafting fibers"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
-          "displayType": "tier-grid",
+          "name": "Little Crossroads Multiplayer Guide",
+          "description": "Explains cooperative gameplay features, online worlds, and how players can build, explore, and relax together. This section targets searches about multiplayer, co-op, and playing with friends.",
+          "href": "/multiplayer/little-crossroads-multiplayer",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Co-Op Play",
+              "detail": "Invite friends directly to your sanctuary world seamlessly"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Signposts",
+              "detail": "Link parallel realms to visit player settlements and community hubs"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Shared Hub",
+              "detail": "Gather in town centers for cooperative mini-games and trading"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Cross-Play",
+              "detail": "Cooperate smoothly across supported PC platforms and controllers"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Little Crossroads Pets And Rewards",
+          "description": "Covers available rewards such as helpful pets, upgrades, tools, wings, boats, and other unlockable items. This module helps users understand long-term progression goals.",
+          "href": "/mechanics/little-crossroads-progression",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Grolem Companion & Glider Wings — Mobile farming and peak vertical mobility"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Rowboat & Master Tools — Swift water travel and high-efficiency harvesting"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Backpack Expansions & Advanced Fishing Rod — Essential mid-game utility"
+            },
+            {
+              "label": "C",
+              "detail": "Starter Net & Basic Wooden Pickaxe — Fundamental entry-level equipment"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Little Crossroads Character Customization",
+          "description": "Showcases character outfits, hairstyles, accessories, cosmetics, and creative customization options. It targets players interested in personalization and decorating their own experience.",
+          "href": "/characters/little-crossroads-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Outfits",
+              "detail": "Mix and match cozy shirts, coats, overalls, and seasonal clothing"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Hairstyles",
+              "detail": "Customize hair styles and color palettes at the styling mirror"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Hats",
+              "detail": "Collect wide-brim straw hats, beanies, and decorative floral clips"
+            },
+            {
+              "label": "Cosmetics",
+              "detail": "Unlock unique emotes, visual trails, and realm accessories"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Little Crossroads Building And Decoration",
+          "description": "Provides information about building homes, upgrading spaces, crafting furniture, and decorating personal areas. This module supports searches related to base building and creative gameplay.",
+          "href": "/maps/little-crossroads-town",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Homestead",
+              "detail": "Design your personalized plot with fences, arches, and stone pathways"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Furniture",
+              "detail": "Craft indoor tables, cozy beds, bookshelves, and decorative lamps"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Gardening",
+              "detail": "Plant flower beds, decorative hedges, and outdoor tea gardens"
+            },
+            {
+              "label": "Lighting",
+              "detail": "Illuminate pathways with rustic lanterns and enchanted torches"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Little Crossroads Release Date And Updates",
+          "description": "Tracks official announcements, release information, playtests, development updates, and future features. This module captures users searching for launch news and latest updates.",
+          "href": "/updates/little-crossroads-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "2026-09",
+              "detail": "Public Steam Playtest with community co-op sandbox testing",
+              "badge": "Playtest"
+            },
+            {
+              "label": "2026-Q4",
+              "detail": "Closed Alpha milestone focusing on expanded crafting and companions",
+              "badge": "Alpha"
+            },
+            {
+              "label": "2027",
+              "detail": "Official full launch window on PC via Steam",
+              "badge": "Launch"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Little Crossroads System Requirements",
+          "description": "Lists PC requirements, supported platforms, and technical information for players preparing to run the game. This section targets searches about download readiness and hardware compatibility.",
+          "href": "/guide/little-crossroads-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 / 11 (64-bit architecture)",
+              "badge": "64-bit"
+            },
+            {
+              "label": "CPU",
+              "detail": "Dual-core 2.4 GHz minimum (Quad-core 3.0 GHz recommended)",
+              "badge": "Processor"
+            },
+            {
+              "label": "RAM",
+              "detail": "4 GB RAM minimum (8 GB recommended for smooth multiplayer)",
+              "badge": "Memory"
+            },
+            {
+              "label": "GPU",
+              "detail": "GTX 460 / Radeon HD 6850 minimum (GTX 1060 recommended)",
+              "badge": "Graphics"
+            },
+            {
+              "label": "Storage",
+              "detail": "2 GB available SSD space for fast cross-realm loading",
+              "badge": "Storage"
             }
           ]
         }
@@ -300,27 +352,27 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the most common questions about Little Crossroads.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is Little Crossroads?",
+          "answer": "Little Crossroads is a cozy multiplayer sandbox RPG developed by Red Merle Games. Players explore peaceful realms, build custom homes, level up gathering skills, and connect with friends across parallel worlds."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When is the Little Crossroads release date?",
+          "answer": "The official Little Crossroads release date is targeted for 2027 on PC via Steam, following community playtests and alpha milestones."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "What core skills are available in Little Crossroads?",
+          "answer": "Little Crossroads features five primary gathering skills: Fishing, Bug Catching, Mining, Woodcutting, and Foraging, each unlocking specialized tools and crafting recipes."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does Little Crossroads support multiplayer co-op?",
+          "answer": "Yes, Little Crossroads features cross-world online co-op, allowing players to connect realms using magical signposts and explore sanctuaries together."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "What is the Grolem in Little Crossroads?",
+          "answer": "In Little Crossroads, the Grolem is a friendly dirt golem pet companion that functions as a mobile farm, letting you plant and harvest crops anywhere on your journey."
         }
       ]
     },
