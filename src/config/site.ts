@@ -25,12 +25,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Cozy Adventure Game Guide, Walkthrough & Secrets",
   description: "Explore Little Crossroads Wiki with detailed guides, walkthroughs, gameplay tips, secrets, locations, and helpful information for players.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://little-crossroads.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://little-crossroads.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@little-crossroads.wiki",
   gameUrl: "https://store.steampowered.com/app/3627770/Little_Crossroads/",
   heroVideoId: "emdXRUOawzw", // Little Crossroads Official Trailer
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/",
+    youtube: "https://www.youtube.com/",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
