@@ -1,1 +1,471 @@
-{}
+{
+  "site": {
+    "name": "Little Crossroads Wiki",
+    "shortName": "Little Crossroads",
+    "tagline": "Guía del juego de aventura acogedor, soluciones y secretos",
+    "description": "Explora la wiki de Little Crossroads con guías detalladas, soluciones, consejos de juego, secretos, ubicaciones e información útil para jugadores.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "guide": "Guía",
+    "updates": "Actualizaciones",
+    "multiplayer": "Multijugador",
+    "mechanics": "Mecánicas",
+    "characters": "Personajes",
+    "maps": "Mapas",
+    "community": "Comunidad",
+    "toggleTheme": "Cambiar tema",
+    "menu": "Menú"
+  },
+  "home": {
+    "meta": {
+      "title": "Wiki Little Crossroads — Guía, Soluciones y Secretos",
+      "description": "Explora la wiki de Little Crossroads con guías detalladas, soluciones, consejos de juego, secretos, ubicaciones e información útil para jugadores."
+    },
+    "hero": {
+      "eyebrow": "Juego de aventura acogedor",
+      "title": "Little Crossroads Wiki",
+      "description": "Little Crossroads es un juego de exploración acogedor centrado en descubrir caminos, resolver pequeños desafíos y vivir un viaje relajante por encrucijadas y entornos encantadores.",
+      "stats": [
+        "Guías completas",
+        "Soluciones y consejos",
+        "Secretos y ubicaciones",
+        "Wiki comunitaria"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Guía del juego",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Tráiler oficial"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu viaje por Little Crossroads",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Domina tus primeras horas en The Crossroads con consejos esenciales sobre navegación, herramientas iniciales y cómo despejar tu santuario."
+        },
+        {
+          "number": "2",
+          "title": "Progresión de habilidades",
+          "description": "Sube de nivel la pesca, la minería, la captura de insectos, la tala y la recolección para desbloquear herramientas avanzadas y recetas de fabricación."
+        },
+        {
+          "number": "3",
+          "title": "Grolem y mascotas",
+          "description": "Hazte amigo del adorable gólem de tierra Grolem para cultivar en movimiento y desbloquear compañeros de movilidad útiles."
+        },
+        {
+          "number": "4",
+          "title": "Cooperativo multijugador",
+          "description": "Aprende a activar los postes mágicos para enlazar reinos, invitar a tus amigos y explorar juntos los mundos de la comunidad."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias actuales",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Progresión de habilidades",
+        "Cooperativo multijugador",
+        "Compañero Grolem"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas desde tu primer inicio de sesión hasta dominar lo básico de navegación y progresión.",
+          "href": "/guide/little-crossroads-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Guía de habilidades",
+          "description": "Guía completa sobre pesca, minería, captura de insectos, tala y recolección.",
+          "href": "/mechanics/little-crossroads-activities"
+        },
+        {
+          "badge": "Cooperativo",
+          "title": "Guía multijugador",
+          "description": "Conéctate con amigos a través de los postes de reino y explorad santuarios juntos.",
+          "href": "/multiplayer/little-crossroads-multiplayer"
+        },
+        {
+          "badge": "Funciones",
+          "title": "Progresión y mascotas",
+          "description": "Desbloquea equipo de movilidad, alas planeadoras y compañeros de cultivo móviles.",
+          "href": "/mechanics/little-crossroads-progression"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Little Crossroads?",
+      "paragraphs": [
+        "Little Crossroads es un RPG sandbox multijugador acogedor desarrollado por Red Merle Games. En un reino tranquilo e interconectado, los jugadores despiertan en su propio santuario-poste para construir un hogar personal, dominar habilidades de recolección pacíficas y explorar diversos biomas a su propio ritmo.",
+        "Cultiva en movimiento con compañeros útiles como el gólem de tierra Grolem, enlaza mundos con tus amigos mediante postes mágicos y personaliza tu personaje con innumerables atuendos acogedores. Nuestra wiki ofrece guías completas, catálogos de objetos y consejos de progresión para tu aventura."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "Red Merle Games"
+        },
+        {
+          "label": "Plataforma",
+          "value": "PC (Steam)"
+        },
+        {
+          "label": "Género",
+          "value": "RPG sandbox acogedor"
+        },
+        {
+          "label": "Ventana de lanzamiento",
+          "value": "2027"
+        },
+        {
+          "label": "Habilidades clave",
+          "value": "5 disciplinas"
+        },
+        {
+          "label": "Almacenamiento",
+          "value": "2 GB SSD"
+        },
+        {
+          "label": "Multijugador",
+          "value": "Cooperativo en línea"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Little Crossroads",
+      "description": "Descubre guías completas, análisis de habilidades, consejos multijugador y hojas de ruta de progresión para Little Crossroads.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Little Crossroads",
+          "description": "Una guía apta para principiantes que cubre los primeros pasos en Little Crossroads: crear tu hogar, explorar el mundo, elegir actividades y entender el bucle principal de progresión. Este módulo está dirigido a jugadores nuevos que buscan cómo empezar y qué hacer primero.",
+          "href": "/guide/little-crossroads-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Despierta en The Crossroads y localiza tu santuario-poste central"
+            },
+            {
+              "label": "2",
+              "detail": "Despeja los escombros y recolecta madera y piedra iniciales con las herramientas básicas"
+            },
+            {
+              "label": "3",
+              "detail": "Conoce al amistoso compañero Grolem para comenzar el cultivo móvil"
+            },
+            {
+              "label": "4",
+              "detail": "Activa el poste de reino para conectarte con los centros multijugador"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de habilidades de Little Crossroads",
+          "description": "Una visión detallada del sistema de progresión de habilidades: pesca, minería, captura de insectos, tala y recolección. Los jugadores pueden aprender cómo cada actividad contribuye al crecimiento del personaje y a las recompensas.",
+          "href": "/mechanics/little-crossroads-activities",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Pesca",
+              "detail": "Captura diversas especies de peces en ríos y costas con cañas"
+            },
+            {
+              "label": "Minería",
+              "detail": "Extrae piedra, mineral de hierro y gemas raras en biomas de cuevas"
+            },
+            {
+              "label": "Insectos",
+              "detail": "Barre con redes las praderas para capturar esquivas especies de insectos"
+            },
+            {
+              "label": "Tala",
+              "detail": "Tala árboles para obtener madera dura, blanda y de construcción"
+            },
+            {
+              "label": "Recolección",
+              "detail": "Recoge bayas silvestres, hierbas curativas y fibras naturales de fabricación"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía multijugador de Little Crossroads",
+          "description": "Explica las funciones cooperativas, los mundos en línea y cómo los jugadores pueden construir, explorar y relajarse juntos. Esta sección cubre búsquedas sobre multijugador, cooperativo y jugar con amigos.",
+          "href": "/multiplayer/little-crossroads-multiplayer",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Juego cooperativo",
+              "detail": "Invita a tus amigos directamente a tu mundo-santuario sin complicaciones"
+            },
+            {
+              "label": "Postes",
+              "detail": "Enlaza reinos paralelos para visitar asentamientos de jugadores y centros comunitarios"
+            },
+            {
+              "label": "Centro compartido",
+              "detail": "Reúnete en los centros urbanos para minijuegos cooperativos y comercio"
+            },
+            {
+              "label": "Cross-Play",
+              "detail": "Coopera sin problemas en las plataformas de PC y mandos compatibles"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Mascotas y recompensas de Little Crossroads",
+          "description": "Cubre las recompensas disponibles, como mascotas útiles, mejoras, herramientas, alas, barcos y otros objetos desbloqueables. Este módulo ayuda a entender los objetivos de progresión a largo plazo.",
+          "href": "/mechanics/little-crossroads-progression",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Compañero gólem de tierra Grolem que permite cultivar y plantar en cualquier lugar"
+            },
+            {
+              "label": "A",
+              "detail": "Alas encantadas que otorgan movilidad planeadora sobre encrucijadas elevadas y acantilados"
+            },
+            {
+              "label": "B",
+              "detail": "Botes de remos y esquifes para navegar por vías fluviales y rincones de pesca apartados"
+            },
+            {
+              "label": "C",
+              "detail": "Herramientas iniciales de cobre y hierro mejoradas para recolectar y minar más rápido"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Personalización de personajes de Little Crossroads",
+          "description": "Muestra atuendos, peinados, accesorios, cosméticos y opciones creativas de personalización de personajes. Está dirigido a jugadores interesados en la personalización y en decorar su propia experiencia.",
+          "href": "/characters/little-crossroads-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Atuendos",
+              "detail": "Combina camisas acogedoras, abrigos, petos y ropa de temporada"
+            },
+            {
+              "label": "Peinados",
+              "detail": "Personaliza peinados y paletas de color en el espejo de estilismo"
+            },
+            {
+              "label": "Sombreros",
+              "detail": "Colecciona sombreros de paja de ala ancha, gorros y pinzas florales decorativas"
+            },
+            {
+              "label": "Cosméticos",
+              "detail": "Desbloquea emotes únicos, estelas visuales y accesorios de reino"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Construcción y decoración de Little Crossroads",
+          "description": "Ofrece información sobre construir casas, mejorar espacios, fabricar muebles y decorar zonas personales. Este módulo cubre búsquedas relacionadas con la construcción de bases y el juego creativo.",
+          "href": "/maps/little-crossroads-town",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Parcela",
+              "detail": "Diseña tu parcela personalizada con vallas, arcos y caminos de piedra"
+            },
+            {
+              "label": "Muebles",
+              "detail": "Fabrica mesas, camas acogedoras, estanterías y lámparas decorativas"
+            },
+            {
+              "label": "Jardinería",
+              "detail": "Planta parterres de flores, setos decorativos y jardines de té al aire libre"
+            },
+            {
+              "label": "Iluminación",
+              "detail": "Ilumina los caminos con faroles rústicos y antorchas encantadas"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Fecha de lanzamiento y actualizaciones de Little Crossroads",
+          "description": "Sigue los anuncios oficiales, la información de lanzamiento, los playtests, las actualizaciones de desarrollo y las funciones futuras. Este módulo capta a los usuarios que buscan noticias de lanzamiento y las últimas novedades.",
+          "href": "/updates/little-crossroads-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "2026-09",
+              "detail": "Playtest público en Steam con pruebas sandbox cooperativas de la comunidad",
+              "badge": "Playtest"
+            },
+            {
+              "label": "2026-Q4",
+              "detail": "Hito de alfa cerrada centrado en ampliar la fabricación y los compañeros",
+              "badge": "Alfa"
+            },
+            {
+              "label": "2027",
+              "detail": "Ventana de lanzamiento completo oficial en PC a través de Steam",
+              "badge": "Lanzamiento"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Requisitos del sistema de Little Crossroads",
+          "description": "Enumera los requisitos de PC, las plataformas compatibles y la información técnica para los jugadores que preparan su instalación. Esta sección cubre búsquedas sobre preparación de descarga y compatibilidad de hardware.",
+          "href": "/guide/little-crossroads-guide",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "OS",
+              "detail": "Windows 10 / 11 (arquitectura de 64 bits)",
+              "badge": "64 bits"
+            },
+            {
+              "label": "CPU",
+              "detail": "Doble núcleo a 2,4 GHz mínimo (cuádruple núcleo a 3,0 GHz recomendado)",
+              "badge": "Procesador"
+            },
+            {
+              "label": "RAM",
+              "detail": "4 GB de RAM mínimo (8 GB recomendados para un multijugador fluido)",
+              "badge": "Memoria"
+            },
+            {
+              "label": "GPU",
+              "detail": "GTX 460 / Radeon HD 6850 mínimo (GTX 1060 recomendada)",
+              "badge": "Gráficos"
+            },
+            {
+              "label": "Storage",
+              "detail": "2 GB de espacio SSD disponible para cargas rápidas entre reinos",
+              "badge": "Almacenamiento"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Little Crossroads.",
+      "items": [
+        {
+          "question": "¿Qué es Little Crossroads?",
+          "answer": "Little Crossroads es un RPG sandbox multijugador acogedor desarrollado por Red Merle Games. Los jugadores exploran reinos tranquilos, construyen casas personalizadas, suben de nivel sus habilidades de recolección y se conectan con amigos a través de mundos paralelos."
+        },
+        {
+          "question": "¿Cuándo sale Little Crossroads?",
+          "answer": "La fecha de lanzamiento oficial de Little Crossroads está prevista para 2027 en PC a través de Steam, tras los playtests comunitarios y los hitos de alfa."
+        },
+        {
+          "question": "¿Qué habilidades principales hay en Little Crossroads?",
+          "answer": "Little Crossroads incluye cinco habilidades principales de recolección: pesca, captura de insectos, minería, tala y recolección; cada una desbloquea herramientas especializadas y recetas de fabricación."
+        },
+        {
+          "question": "¿Little Crossroads admite cooperativo multijugador?",
+          "answer": "Sí, Little Crossroads incluye cooperativo en línea entre mundos: los jugadores conectan reinos mediante postes mágicos y exploran santuarios juntos."
+        },
+        {
+          "question": "¿Qué es el Grolem en Little Crossroads?",
+          "answer": "En Little Crossroads, el Grolem es un compañero gólem de tierra amistoso que funciona como granja móvil, permitiéndote plantar y cosechar en cualquier punto de tu viaje."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para explorar Little Crossroads?",
+      "description": "Desde tus primeros pasos por encrucijadas tranquilas hasta descubrir caminos ocultos, nuestra wiki comunitaria te acompaña con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "readFullGuide": "Leer la guía completa",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!",
+    "playOnSteam": "Jugar en Steam",
+    "close": "Cerrar",
+    "codeComingSoon": "COMING-SOON",
+    "codeStayTuned": "STAY-TUNED",
+    "noActiveCodes": "No hay códigos activos disponibles actualmente",
+    "checkBackSoon": "Vuelve pronto para ver nuevos códigos"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La guía que buscas puede haberse movido o aún no se ha añadido.",
+    "cta": "Ver todas las guías"
+  },
+  "footer": {
+    "aboutTitle": "Little Crossroads Wiki",
+    "about": "La wiki de Little Crossroads es un portal de guías independiente creado por fans que cubre rutas de exploración, secretos, puzles, soluciones y conocimientos esenciales del juego para los jugadores.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Little Crossroads Wiki. Sin afiliación con los desarrolladores del juego ni con Steam.",
+    "description": "Juego de aventura y exploración acogedor. Descubre caminos, secretos y viajes relajantes.",
+    "playGame": "Jugar a Little Crossroads",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Mapa interactivo",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Ubicaciones",
+    "bossGuides": "Puzles",
+    "buildGuide": "Secretos",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  },
+  "guide": {
+    "overviewTitle": "Guías y soluciones de Little Crossroads",
+    "overviewDescription": "Guías completas para principiantes, tutoriales de mecánicas de juego, soluciones de la demo y consejos de playtest para ayudarte a dominar Little Crossroads."
+  },
+  "updates": {
+    "overviewTitle": "Actualizaciones y notas de versión de Little Crossroads",
+    "overviewDescription": "Mantente al día de las últimas fechas de lanzamiento de Little Crossroads, las actualizaciones de Steam, los anuncios de pruebas alfa y beta y las notas del parche."
+  },
+  "multiplayer": {
+    "overviewTitle": "Guías multijugador y cooperativas de Little Crossroads",
+    "overviewDescription": "Aprende a conectar con amigos, participar en sesiones cooperativas en línea y explorar juntos el acogedor mundo de Little Crossroads."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de juego y progresión de Little Crossroads",
+    "overviewDescription": "Análisis detallado de los sistemas de exploración, las actividades de misiones, las rutas de progresión y las mecánicas de juego esenciales de Little Crossroads."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y lore del mundo de Little Crossroads",
+    "overviewDescription": "Descubre todos los personajes, PNJ, elementos de lore, eventos del entorno y arcos narrativos del mundo de Little Crossroads."
+  },
+  "maps": {
+    "overviewTitle": "Mapas y ubicaciones de Little Crossroads",
+    "overviewDescription": "Explora todas las zonas, los distritos de la ciudad, los puntos de referencia clave y los secretos del entorno con nuestra guía completa de mapas de Little Crossroads."
+  },
+  "community": {
+    "overviewTitle": "Comunidad y espacio social de Little Crossroads",
+    "overviewDescription": "Conecta con otros jugadores en Discord y Reddit, lee las noticias oficiales del juego, consulta las reseñas de jugadores y sigue soluciones detalladas."
+  }
+}

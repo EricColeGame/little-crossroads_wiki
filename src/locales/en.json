@@ -13,7 +13,9 @@
     "mechanics": "Mechanics",
     "characters": "Characters",
     "maps": "Maps",
-    "community": "Community"
+    "community": "Community",
+    "toggleTheme": "Toggle theme",
+    "menu": "Menu"
   },
   "home": {
     "meta": {
@@ -403,10 +405,21 @@
     "relatedReading": "Related Reading",
     "relatedGuides": "Related Guides",
     "readMore": "Read more",
+    "readFullGuide": "Read Full Guide",
     "officialMedia": "Official media",
     "home": "Home",
     "noGuidesAvailable": "No guides available yet. Check back soon!",
-    "playOnSteam": "Play on Steam"
+    "playOnSteam": "Play on Steam",
+    "close": "Close",
+    "codeComingSoon": "COMING-SOON",
+    "codeStayTuned": "STAY-TUNED",
+    "noActiveCodes": "No active codes currently available",
+    "checkBackSoon": "Check back soon for new codes"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The guide you are looking for may have moved or has not been added yet.",
+    "cta": "Browse All Guides"
   },
   "footer": {
     "aboutTitle": "Little Crossroads Wiki",

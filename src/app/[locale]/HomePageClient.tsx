@@ -7,6 +7,7 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
+import { useTranslations } from "next-intl";
 import { TrailerButton, localizeHref } from "@/components/site";
 import { AdBanner, DismissibleStickyBanner, NativeBannerAd } from "@/components/ads";
 import type { ContentItem } from "@/lib/content";
@@ -19,6 +20,7 @@ const icons: LucideIcon[] = [BookOpen, Shield, Compass, Boxes, Flame, Code2, Swo
 
 export default function HomePageClient({ home, locale, articles, recentArticles }: { home: Home; locale: string; articles: ContentItem[]; recentArticles: ContentItem[] }) {
   const YOUTUBE_VIDEO_ID = siteConfig.heroVideoId || "emdXRUOawzw";
+  const tShared = useTranslations("shared");
 
   return (
     <div className="min-w-0 space-y-16">
@@ -33,7 +35,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
         </div>
         {YOUTUBE_VIDEO_ID && (
           <div className="mx-auto mt-5 max-w-4xl">
-            <TrailerButton videoId={YOUTUBE_VIDEO_ID} />
+            <TrailerButton videoId={YOUTUBE_VIDEO_ID} closeLabel={tShared("close")} />
           </div>
         )}
         <p className="mx-auto mt-5 max-w-3xl text-base leading-relaxed text-muted-foreground">{home.hero.description}</p>
@@ -64,7 +66,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
             ))}
           </div>
           <Button asChild className="mt-5 w-full" variant="outline">
-            <Link href={localizeHref("/codes", locale)}>{home.updates.browse}</Link>
+            <Link href={localizeHref("/guide", locale)}>{home.updates.browse}</Link>
           </Button>
         </Card>
 
@@ -229,7 +231,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
                     href={localizeHref(mod.href, locale)}
                     className="mt-5 inline-flex items-center text-sm font-semibold text-[hsl(var(--nav-theme))] hover:underline"
                   >
-                    Read Full Guide <ChevronRight className="ml-1 h-4 w-4" />
+                    {tShared("readFullGuide")} <ChevronRight className="ml-1 h-4 w-4" />
                   </Link>
                 </div>
               </div>

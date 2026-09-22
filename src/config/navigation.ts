@@ -1,7 +1,9 @@
+import type { ReactNode } from "react";
+
 export interface NavigationItem {
   key: string;
   path: `/${string}`;
-  icon?: any;
+  icon?: ReactNode;
   isContentType: boolean;
 }
 
