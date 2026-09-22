@@ -10,6 +10,7 @@ import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { CollapsibleNavGroup } from "@/components/collapsible-nav-group";
 import { LanguageSwitcher } from "@/components/language-switcher";
 import { ClientThemeToggle } from "@/components/theme-toggle";
+import { ClientLogoImage } from "@/components/logo-image";
 
 export function localizeHref(href: string, locale: string) {
   return `/${locale}${href === "/" ? "" : href}`;
@@ -21,7 +22,7 @@ export async function SiteHeader({ locale }: { locale: string }) {
     <div className="flex items-center justify-between gap-4">
       <Link href={localizeHref("/", locale)} className="flex items-center gap-3">
         <div className="relative flex h-9 w-9 items-center justify-center overflow-hidden rounded-xl border border-border bg-muted shadow-sm">
-          <img src="/images/logo.png" alt={siteConfig.name} className="absolute inset-0 h-full w-full object-cover" onError={(e) => { (e.target as HTMLElement).style.display = "none"; }} />
+          <ClientLogoImage alt={siteConfig.name} />
           <span className="text-xs font-bold text-foreground">{siteConfig.logoText || "LC"}</span>
         </div>
         <span className="text-sm font-bold tracking-wide text-foreground">{siteConfig.name}</span>
